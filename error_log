@@ -1,0 +1,2 @@
+[28-Jan-2024 10:03:38 America/Los_Angeles] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ioreyuqp/hrms.ioready.io/application/controllers/Sale_Controller.php on line 218
+[28-Jan-2024 10:03:40 America/Los_Angeles] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ioreyuqp/hrms.ioready.io/application/controllers/Sale_Controller.php on line 218
